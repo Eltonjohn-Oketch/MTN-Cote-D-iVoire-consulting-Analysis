@@ -11,6 +11,8 @@ Currently MTN Cote d'Ivoire would like to upgrade its technology infrastructure 
  # Recording the Experimental Design
  
 1.)Which ones were the most used city for the three days?
+
 2.)Which cities were the most used during business and home hours?
+
 3.)Most used city for the three days?
 etc. 
